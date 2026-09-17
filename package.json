@@ -21,7 +21,7 @@
     "pdf-parse": "^1.1.1",
     "pdf2json": "^3.0.5",
     "pdfjs-dist": "^4.0.379",
-    "pdfreader": "^3.0.2",
+    "pdfreader": "^1.2.11",
     "react": "^18",
     "react-dom": "^18",
     "react-filepond": "^7.1.2",
